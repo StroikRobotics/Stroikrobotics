@@ -28,4 +28,3 @@ A continuación, se listan los módulos electrónicos, actuadores y elementos es
 
 ## 📐 Instrucciones de Armado Paso a Paso
 
-A partir de este punto, sigue detenidamente cada etapa para consolidar el bloque central del chasis, la caja de engranajes y el anclaje de la PixyCam.
