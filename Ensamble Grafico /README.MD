@@ -1,11 +1,7 @@
 
 ## 🛠️ Guía de Ensamblaje y Lista de Materiales (BOM)
 
-En esta sección se detalla el proceso constructivo del robot paso a paso, diseñado para garantizar una estructura rígida, simétrica y de bajo centro de gravedad, ideal para las altas exigencias de velocidad y precisión en la pista de la **World Robot Olympiad (WRO)**.
-
-Antes de comenzar con el armado, asegúrate de contar con el inventario completo de piezas de **LEGO Technic y Mindstorms EV3** que componen el chasis central y sus subsistemas mecánicos.
-
----
+En esta sección se detalla el proceso constructivo del robot paso a paso, diseñado para garantizar una estructura rígida, simétrica y de bajo centro de gravedad, ideal para las exigencias de velocidad y precisión en la pista 
 
 ### 📋 Inventario de Componentes Principales (Bill of Materials)
 
