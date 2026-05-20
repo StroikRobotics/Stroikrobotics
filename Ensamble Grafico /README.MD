@@ -28,8 +28,4 @@ A continuación, se listan los módulos electrónicos, actuadores y elementos es
 
 ## 📐 Instrucciones de Armado Paso a Paso
 
-### Paso 1: Ensamblaje de la Base del Chasis
-Coloca las vigas de soporte y asegura los marcos rectangulares utilizando los pines de fricción.
-
-<p align="center">
   [![Whats-App-Image-2026-05-19-at-7-48-53-AM-(4).jpg](https://i.postimg.cc/RVwZVCfr/Whats-App-Image-2026-05-19-at-7-48-53-AM-(4).jpg)](https://postimg.cc/TpY6t6CQ)
