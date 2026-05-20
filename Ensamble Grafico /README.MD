@@ -37,3 +37,10 @@ A continuación, se listan los módulos electrónicos, actuadores y elementos es
 # 📐 Instrucciones de Armado Paso a Paso
 
  [![Mesa-de-trabajo-1.jpg](https://i.postimg.cc/k5knmDs0/Mesa-de-trabajo-1.jpg)](https://postimg.cc/3yFMj8P1)
+[![Mesa-de-trabajo-2.jpg](https://i.postimg.cc/VNb8DmwZ/Mesa-de-trabajo-2.jpg)](https://postimg.cc/gwdQ09n3)
+[![Mesa-de-trabajo-3.jpg](https://i.postimg.cc/d1Kz6C4P/Mesa-de-trabajo-3.jpg)](https://postimg.cc/TyC7YpzC)
+[![Mesa-de-trabajo-4.jpg](https://i.postimg.cc/dtXNnd0v/Mesa-de-trabajo-4.jpg)](https://postimg.cc/BXTCnjDw)
+[![Mesa-de-trabajo-5.jpg](https://i.postimg.cc/Vv299qWK/Mesa-de-trabajo-5.jpg)](https://postimg.cc/1VcNsNTF)
+[![Mesa-de-trabajo-6.jpg](https://i.postimg.cc/FKPTdJ8p/Mesa-de-trabajo-6.jpg)](https://postimg.cc/d7y2gDqZ)
+[![Mesa-de-trabajo-7.jpg](https://i.postimg.cc/hG30PRQd/Mesa-de-trabajo-7.jpg)](https://postimg.cc/4KVcBM5f)
+[![Mesa-de-trabajo-8.jpg](https://i.postimg.cc/RZS17ZcR/Mesa-de-trabajo-8.jpg)](https://postimg.cc/3dqD77f4)
