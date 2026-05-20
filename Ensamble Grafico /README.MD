@@ -40,6 +40,9 @@ A continuación, se listan los módulos electrónicos, actuadores y elementos es
 
 # 📐 Instrucciones de Armado Paso a Paso
 
+A continuación, se presenta el manual gráfico detallado para el ensamblaje mecánico y estructural del robot. El proceso está dividido en etapas secuenciales diseñadas para asegurar la simetría del chasis, la correcta alineación de los sistemas de transmisión y el anclaje óptimo de los módulos de control y lectura.
+
+
  [![Mesa-de-trabajo-1.jpg](https://i.postimg.cc/k5knmDs0/Mesa-de-trabajo-1.jpg)](https://postimg.cc/3yFMj8P1)
 [![Mesa-de-trabajo-2.jpg](https://i.postimg.cc/VNb8DmwZ/Mesa-de-trabajo-2.jpg)](https://postimg.cc/gwdQ09n3)
 [![Mesa-de-trabajo-3.jpg](https://i.postimg.cc/d1Kz6C4P/Mesa-de-trabajo-3.jpg)](https://postimg.cc/TyC7YpzC)
