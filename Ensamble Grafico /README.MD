@@ -27,8 +27,13 @@ A continuación, se listan los módulos electrónicos, actuadores y elementos es
 ---
 ## Graficos de Materiales
 [![Whats-App-Image-2026-05-19-at-7-47-17-AM-(1).jpg](https://i.postimg.cc/9XbBg9Jk/Whats-App-Image-2026-05-19-at-7-47-17-AM-(1).jpg)](https://postimg.cc/HjJ5VrG0)
+[![Whats-App-Image-2026-05-19-at-7-47-17-AM-(2).jpg](https://i.postimg.cc/RZ5qcsKs/Whats-App-Image-2026-05-19-at-7-47-17-AM-(2).jpg)](https://postimg.cc/0bn8vCtD)
+[![Whats-App-Image-2026-05-19-at-7-47-17-AM-(3).jpg](https://i.postimg.cc/13Qw95Cs/Whats-App-Image-2026-05-19-at-7-47-17-AM-(3).jpg)](https://postimg.cc/PPSPyhnR)
+[![Whats-App-Image-2026-05-19-at-7-47-17-AM-(4).jpg](https://i.postimg.cc/HLSy40pb/Whats-App-Image-2026-05-19-at-7-47-17-AM-(4).jpg)](https://postimg.cc/8F6cT6fC)
+[![Whats-App-Image-2026-05-19-at-7-47-17-AM-(5).jpg](https://i.postimg.cc/8zNJ2Xch/Whats-App-Image-2026-05-19-at-7-47-17-AM-(5).jpg)](https://postimg.cc/1f736Hpt)
+[![Whats-App-Image-2026-05-19-at-7-47-17-AM.jpg](https://i.postimg.cc/9Fjr9gG9/Whats-App-Image-2026-05-19-at-7-47-17-AM.jpg)](https://postimg.cc/3Wn85Bfr)
 
 
-## 📐 Instrucciones de Armado Paso a Paso
+# 📐 Instrucciones de Armado Paso a Paso
 
   [![Whats-App-Image-2026-05-19-at-7-48-53-AM-(4).jpg](https://i.postimg.cc/RVwZVCfr/Whats-App-Image-2026-05-19-at-7-48-53-AM-(4).jpg)](https://postimg.cc/TpY6t6CQ)
