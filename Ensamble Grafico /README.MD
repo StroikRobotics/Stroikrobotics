@@ -27,7 +27,7 @@ A continuación, se listan los módulos electrónicos, actuadores y elementos es
 
 ---
 
-### Graficos de Materiales
+## Graficos de Materiales
 [![Whats-App-Image-2026-05-19-at-7-47-17-AM-(1).jpg](https://i.postimg.cc/9XbBg9Jk/Whats-App-Image-2026-05-19-at-7-47-17-AM-(1).jpg)](https://postimg.cc/HjJ5VrG0)
 [![Whats-App-Image-2026-05-19-at-7-47-17-AM-(2).jpg](https://i.postimg.cc/RZ5qcsKs/Whats-App-Image-2026-05-19-at-7-47-17-AM-(2).jpg)](https://postimg.cc/0bn8vCtD)
 [![Whats-App-Image-2026-05-19-at-7-47-17-AM-(3).jpg](https://i.postimg.cc/13Qw95Cs/Whats-App-Image-2026-05-19-at-7-47-17-AM-(3).jpg)](https://postimg.cc/PPSPyhnR)
