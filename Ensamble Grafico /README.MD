@@ -1,5 +1,5 @@
 
-## 🛠️ Guía de Ensamblaje y Lista de Materiales (BOM)
+## 🛠️ Guía de Ensamblaje y Lista de Materiales 
 
 En esta sección se detalla el proceso constructivo del robot paso a paso, diseñado para garantizar una estructura rígida, simétrica y de bajo centro de gravedad, ideal para las exigencias de velocidad y precisión en la pista 
 
