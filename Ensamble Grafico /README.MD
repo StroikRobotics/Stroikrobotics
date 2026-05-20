@@ -27,7 +27,6 @@ A continuación, se listan los módulos electrónicos, actuadores y elementos es
 | | 5x | **40490** | Viga Technic 1x9 |
 | **Marcos Estructurales**| 3x | **64179** | Marco Rectangular Technic (Cuadro abierto de alta rigidez) |
 
-> ⚙️ *Nota: La tornillería, conectores de fricción (pines negros/azules), ejes mecánicos y vigas angulares menores se detallan de forma específica al inicio de cada paso del ensamblaje.*
 
 ---
 
