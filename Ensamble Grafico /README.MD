@@ -25,6 +25,9 @@ A continuación, se listan los módulos electrónicos, actuadores y elementos es
 
 
 ---
+## Graficos de Materiales
+
+
 
 ## 📐 Instrucciones de Armado Paso a Paso
 
