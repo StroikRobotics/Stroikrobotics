@@ -1,3 +1,3 @@
- # Stroik Robotics 
+ # Stroik 
 ¡Bienvenidos al repositorio oficial de nuestro equipo! 
 
