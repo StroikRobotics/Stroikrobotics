@@ -16,7 +16,7 @@
 
 | Prueba / Sensor | Descripción Técnica | Demostración (Enlace) |
 | :--- | :--- | :---: |
-| **02. Reconocimiento y Clasificación de Objetos** | Pruebas de lectura en tiempo real frente a bloques de la competencia (Verde y Rojo). El software procesa la información del sensor de color y la interfaz emite alertas auditivas según el elemento detectado, logrando calibrar la tolerancia a la luz ambiental. | [▶️ Ver Video de Calibración](ENLACE_AL_VIDEO_2) |
+| **02. Reconocimiento y Clasificación de Objetos** | Pruebas de lectura en tiempo real frente a bloques de la competencia (Verde y Rojo). El software procesa la información del sensor de color y la interfaz emite alertas auditivas según el elemento detectado, logrando calibrar la tolerancia a la luz ambiental. | |
 
 ---
 
