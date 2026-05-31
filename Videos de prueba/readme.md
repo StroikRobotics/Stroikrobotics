@@ -1,7 +1,5 @@
 ## 🎥 Bitácora de Pruebas y Evolución de Prototipos (WRO 2026)
 
-En esta sección se documenta el proceso experimental y de validación del robot. Las pruebas están organizadas de forma cronológica según la madurez del proyecto, partiendo desde los subsistemas mecánicos aislados hasta las pruebas de navegación autónoma y evasión de obstáculos.
-
 ---
 
 ### ⚙️ Fase 1: Ingeniería Mecánica y Pruebas de Actuadores
