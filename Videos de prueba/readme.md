@@ -4,7 +4,7 @@ En esta sección se documenta el proceso experimental y de validación del robot
 
 ---
 
-### ⚙️ Fase 1: Ingeniería Mecánica y Pruebas de Actuadores
+###  Fase 1: Ingeniería Mecánica y Pruebas de Actuadores
 *Pruebas iniciales de ensamblaje para validar la transmisión de torque, la sincronización de engranajes y la respuesta de los motores de los brazos manipuladores.*
 
 | Prueba / Mecanismo | Descripción Técnica | Video de Referencia |
@@ -13,7 +13,7 @@ En esta sección se documenta el proceso experimental y de validación del robot
 
 ---
 
-### 🎨 Fase 2: Calibración de Sensores y Visión por Computación
+###  Fase 2: Calibración de Sensores y Visión por Computación
 *Desarrollo de software y pruebas de reconocimiento de entorno utilizando sensores de color artificiales y retroalimentación por voz del sistema.*
 
 | Prueba / Sensor | Descripción Técnica | Video de Referencia |
@@ -22,7 +22,7 @@ En esta sección se documenta el proceso experimental y de validación del robot
 
 ---
 
-### 🤖 Fase 3: Integración de Chasis y Algoritmos de Navegación Autónoma
+###  Fase 3: Integración de Chasis y Algoritmos de Navegación Autónoma
 *Pruebas de campo con el prototipo completamente armado. Validación de la cinemática del robot, detección perimetral y comportamiento frente a elementos externos.*
 
 | Prueba / Comportamiento | Descripción Técnica | Videos de Referencia |
