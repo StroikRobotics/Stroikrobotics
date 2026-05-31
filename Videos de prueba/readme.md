@@ -5,9 +5,9 @@
 ### ⚙️ Fase 1: Ingeniería Mecánica y Pruebas de Actuadores
 *Pruebas iniciales de ensamblaje para validar la transmisión de torque, la sincronización de engranajes y la respuesta de los motores de los brazos manipuladores.*
 
-| Prueba / Mecanismo | Descripción Técnica | Demostración ([Enlace](https://drive.google.com/file/d/1zOGOW2E_rQv4tVMwY_KoGFJ2vsckEusN/view?usp=sharing)) |
+| Prueba / Mecanismo | Descripción Técnica | Demostración (https://drive.google.com/file/d/1OKj1bes9MLKAHoJ9wT5PTUmDwdpVN1Ws/view?usp=sharing) |
 | :--- | :--- | :---: |
-| **01. Banco de Pruebas: Mecanismo de Actuación** | Validación mecánica de la estructura de engranajes y acoples de Lego. Se comprueba el correcto funcionamiento de los motores independientes y los fines de carrera/topes mecánicos de los brazos antes del montaje final en el chasis. | [▶️ Ver Video de Actuadores](ENLACE_AL_VIDEO_1) |
+| **01. Banco de Pruebas: Mecanismo de Actuación** | Validación mecánica de la estructura de engranajes y acoples de Lego. Se comprueba el correcto funcionamiento de los motores independientes y los fines de carrera/topes mecánicos de los brazos antes del montaje final en el chasis. | [https://drive.google.com/file/d/1OKj1bes9MLKAHoJ9wT5PTUmDwdpVN1Ws/view?usp=sharing) |
 
 ---
 
