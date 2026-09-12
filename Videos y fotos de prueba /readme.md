@@ -30,7 +30,7 @@ En esta sección se documenta el proceso experimental y de validación del robot
 | **03. Evasión y Seguimiento Dinámico (Toma 1)** | El robot ejecuta una rutina de búsqueda en área abierta con el chasis integrado. El algoritmo calcula la proximidad de un objeto esférico (pelota roja) mediante sensores, variando su trayectoria y frenado en función del movimiento dinámico del objeto. | 🔗 [Ángulo General - Parte A](https://drive.google.com/file/d/1zOGOW2E_rQv4tVMwY_KoGFJ2vsckEusN/view?usp=sharing) <br> 🔗 [Ángulo General - Parte B](https://drive.google.com/file/d/1ZB3037ZF_t2KISXfgnCxyET07MERwG2r/view?usp=sharing) <br> 🔗 [Plano Detalle](https://drive.google.com/file/d/1jMoymnt7a0cwyraZeCqr-XZUOC6n-sQb/view?usp=sharing) |
 | **04. Evasión y Seguimiento Dinámico (Toma 2)** | Pruebas complementarias de desplazamiento autónomo en pasillo, ajustando los parámetros de velocidad de los motores traseros y la sensibilidad ante la aproximación de la pelota. | 🔗 [Seguimiento en Pasillo](https://drive.google.com/file/d/1Mvlmt1I7TcK7SGeQt7Q1NI9PFN_wf9K_/view?usp=sharing) <br> 🔗 [Retorno y Giro](https://drive.google.com/file/d/1J8J4eSuPvD_glqS64slc2tfECZUNSEvm/view?usp=sharing) |
 
-# FOTOS 
+## FOTOS PRUEBAS
 [![Whats-App-Image-2026-09-12-at-2-25-09-AM-(2).jpg](https://i.postimg.cc/hP156QN4/Whats-App-Image-2026-09-12-at-2-25-09-AM-(2).jpg)](https://postimg.cc/vcDh6TQC)
 [![Whats-App-Image-2026-09-12-at-2-25-09-AM-(1).jpg](https://i.postimg.cc/3wRVgrSp/Whats-App-Image-2026-09-12-at-2-25-09-AM-(1).jpg)](https://postimg.cc/G4WXRR1h)
 [![Whats-App-Image-2026-09-12-at-2-17-11-AM.jpg](https://i.postimg.cc/c1Q9t8xh/Whats-App-Image-2026-09-12-at-2-17-11-AM.jpg)](https://postimg.cc/RqZQjhnJ)
