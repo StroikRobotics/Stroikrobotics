@@ -25,4 +25,15 @@ A continuación se detalla el paso a paso para la construcción del robot. Sigue
 
 [![1-Mesa-de-trabajo-1.jpg](https://i.postimg.cc/1XxxHx28/1-Mesa-de-trabajo-1.jpg)](https://postimg.cc/xJPFfZ0Q)
 [![1-02.jpg](https://i.postimg.cc/zGdGkBj1/1-02.jpg)](https://postimg.cc/QFTD8jw6)
+[![1-03.jpg](https://i.postimg.cc/nc2FHzNw/1-03.jpg)](https://postimg.cc/56Hdgx4w)
+[![1-04.jpg](https://i.postimg.cc/s2hCZD0F/1-04.jpg)](https://postimg.cc/8FN02DSw)
+[![1-05.jpg](https://i.postimg.cc/wTfCfsSS/1-05.jpg)](https://postimg.cc/ykRpWW6P)
+[![1-06.jpg](https://i.postimg.cc/kXpHFPSP/1-06.jpg)](https://postimg.cc/D815nD5x)
+[![1-07.jpg](https://i.postimg.cc/tCYSgvM5/1-07.jpg)](https://postimg.cc/4mRbLPZ7)
+[![1-08.jpg](https://i.postimg.cc/hjDMR2mx/1-08.jpg)](https://postimg.cc/xkZLKytT)
+[![1-09.jpg](https://i.postimg.cc/N0YkRdpZ/1-09.jpg)](https://postimg.cc/4YLcgQC1)
+[![1-10.jpg](https://i.postimg.cc/GmnF1Mwq/1-10.jpg)](https://postimg.cc/3d94XFwv)
+
+
+
 
