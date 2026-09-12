@@ -19,20 +19,6 @@ La construcción del robot se basa en una arquitectura modular LEGO Technic / Mi
 
 ---
 
-### 🧩 Diagrama de Fases de Construcción
+# Guía de Ensamblaje Mecánico
 
-```mermaid
-graph TD
-    A[Pasos 1-7: Chasis Base y Diferencial] --> B[Pasos 8-12: Acople del Motor]
-    B --> C[Pasos 13-23: Mecanismo de Dirección]
-    C --> D[Pasos 24-33: Refuerzo Estructural Inferior]
-    D --> E[Pasos 34-39: Montaje del Tren de Rodaje / Ruedas]
-    E --> F[Pasos 40-49: Soportes de Sensores y Chasis Superior]
-    F --> G[Pasos 50-58: Montaje del Bloque EV3 y Cableado]
-    G --> H[Pasos 59-85: Mecanismos Activos de Manipulación y Finalización]
-
-
-
-
-#. j
-
+A continuación se detalla el paso a paso para la construcción del robot. Sigue cada etapa en orden para garantizar que el chasis quede bien alineado, la transmisión funcione con precisión y los componentes de control y sensores queden ensamblados de forma segura.
