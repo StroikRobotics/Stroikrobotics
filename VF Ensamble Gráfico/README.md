@@ -31,3 +31,8 @@ graph TD
     F --> G[Pasos 50-58: Montaje del Bloque EV3 y Cableado]
     G --> H[Pasos 59-85: Mecanismos Activos de Manipulación y Finalización]
 
+
+
+
+#. j
+
