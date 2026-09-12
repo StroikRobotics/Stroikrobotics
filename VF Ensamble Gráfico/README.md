@@ -31,8 +31,3 @@ graph TD
     F --> G[Pasos 50-58: Montaje del Bloque EV3 y Cableado]
     G --> H[Pasos 59-85: Mecanismos Activos de Manipulación y Finalización]
 
-# Guía de Ensamblaje Mecánico
-
-A continuación se detalla el paso a paso para la construcción del robot. Sigue cada etapa en orden para garantizar que el chasis quede bien alineado, la transmisión funcione con precisión y los componentes de control y sensores queden ensamblados de forma segura.
- 
-
