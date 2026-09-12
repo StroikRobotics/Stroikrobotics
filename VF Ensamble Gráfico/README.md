@@ -33,6 +33,35 @@ A continuación se detalla el paso a paso para la construcción del robot. Sigue
 [![1-08.jpg](https://i.postimg.cc/hjDMR2mx/1-08.jpg)](https://postimg.cc/xkZLKytT)
 [![1-09.jpg](https://i.postimg.cc/N0YkRdpZ/1-09.jpg)](https://postimg.cc/4YLcgQC1)
 [![1-10.jpg](https://i.postimg.cc/GmnF1Mwq/1-10.jpg)](https://postimg.cc/3d94XFwv)
+[![1-11.jpg](https://i.postimg.cc/CLS8PRjD/1-11.jpg)](https://postimg.cc/w3433T4T)
+[![1-12.jpg](https://i.postimg.cc/nLyjvrFw/1-12.jpg)](https://postimg.cc/VSFkwYbj)
+[![1-13.jpg](https://i.postimg.cc/7L2bY43H/1-13.jpg)](https://postimg.cc/4KXXBr2q)
+[![1-14.jpg](https://i.postimg.cc/2y2SXSDg/1-14.jpg)](https://postimg.cc/ZvvmWZ0L)
+[![1-15.jpg](https://i.postimg.cc/TPgYv9xT/1-15.jpg)](https://postimg.cc/cK1NQf6z)
+[![1-16.jpg](https://i.postimg.cc/X7qjY3WR/1-16.jpg)](https://postimg.cc/jLV0MpLc)
+[![1-17.jpg](https://i.postimg.cc/25RrGZWb/1-17.jpg)](https://postimg.cc/hXrkPhpc)
+[![1-18.jpg](https://i.postimg.cc/hjMnKZ5z/1-18.jpg)](https://postimg.cc/34yVB17Y)
+[![1-19.jpg](https://i.postimg.cc/44LGMMc1/1-19.jpg)](https://postimg.cc/K4MC30JK)
+[![1-20.jpg](https://i.postimg.cc/jj40hkKz/1-20.jpg)](https://postimg.cc/1gXjmB8t)
+[![1-21.jpg](https://i.postimg.cc/Qtf229F9/1-21.jpg)](https://postimg.cc/WFJYr46T)
+[![1-22.jpg](https://i.postimg.cc/tJfLgKt4/1-22.jpg)](https://postimg.cc/64rHj1mk)
+[![1-23.jpg](https://i.postimg.cc/wTCCYdB8/1-23.jpg)](https://postimg.cc/gnKS3QRN)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
