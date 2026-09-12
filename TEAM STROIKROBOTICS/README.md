@@ -11,4 +11,10 @@ Yo soy franko Adriani tengo 18 años mi cedula ed 32636435 y naci el 22 de octub
 Holaaa tengo 22 años y nací el 2 de enero del 2004 soy diseñador gráfico y contento por ser parte del team STROIKROBOTICS encargado del githud y el apartado gráfico.
 [![IMG-3662.jpg](https://i.postimg.cc/mgRsJFjS/IMG-3662.jpg)](https://postimg.cc/MvsNjHhc)
 
-## Momentos disfrutando el proceso 
+## Momentos disfrutando el proceso
+[![IMG-3660.jpg](https://i.postimg.cc/bwGB6Ycm/IMG-3660.jpg)](https://postimg.cc/TK6016Pb)
+[![IMG-3651.jpg](https://i.postimg.cc/Xvfxhp2z/IMG-3651.jpg)](https://postimg.cc/yJNF3YCm)
+[![IMG-3663.jpg](https://i.postimg.cc/g0Hqs1J3/IMG-3663.jpg)](https://postimg.cc/rdzrFn5p)
+
+
+
