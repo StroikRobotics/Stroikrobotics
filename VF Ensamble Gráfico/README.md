@@ -24,5 +24,5 @@ La construcción del robot se basa en una arquitectura modular LEGO Technic / Mi
 A continuación se detalla el paso a paso para la construcción del robot. Sigue cada etapa en orden para garantizar que el chasis quede bien alineado, la transmisión funcione con precisión y los componentes de control y sensores queden ensamblados de forma segura.
 
 [![1-Mesa-de-trabajo-1.jpg](https://i.postimg.cc/1XxxHx28/1-Mesa-de-trabajo-1.jpg)](https://postimg.cc/xJPFfZ0Q)
-
+[![1-02.jpg](https://i.postimg.cc/zGdGkBj1/1-02.jpg)](https://postimg.cc/QFTD8jw6)
 
