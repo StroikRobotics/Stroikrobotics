@@ -673,6 +673,76 @@ while True:
     motor_direccion.track_target(timon * RELACION_ENGRANAJE * SIGNO_DIRECCION)
     motor_traccion.run(VELOCIDAD_CRUCERO)
 
- # Código de la sesión cerrada (cada día tratando de perfeccionar este código)
+ ## Código de la sesión cerrada (cada día tratando de perfeccionar este código)
+
+ # Calibración para el Giroscopio y Antidrif
+
+ #!/usr/bin/env pybricks-micropython
+from pybricks.hubs import EV3Brick
+from pybricks.ev3devices import GyroSensor
+from pybricks.parameters import Port
+from pybricks.tools import wait
+
+ev3 = EV3Brick()
+
+# --- CONFIGURACIÓN DEL SENSOR ---
+# Nota: Estoy asumiendo el Puerto S1, cámbialo si lo tienes en otro lado
+gyro = GyroSensor(Port.S1)
+
+print("=============================================")
+print("   INICIANDO CALIBRACIÓN DE GIROSCOPIO       ")
+print("=============================================")
+print("-> ¡NO MUEVAS EL ROBOT PARA NADA! <-")
+
+# Pitido de advertencia inicial
+ev3.speaker.beep(frequency=600, duration=300)
+
+# Forzamos un reset inicial del hardware
+gyro.reset_angle(0)
+wait(200)
+
+# Parámetros del contador (5 segundos = 50 ciclos de 100ms)
+contador_estabilidad = 0
+CICLOS_TOTALES = 50  
+INTERVALO_MS = 100
+
+while contador_estabilidad < CICLOS_TOTALES:
+    
+    angulo_actual = gyro.angle()
+    velocidad_actual = gyro.speed() # Mide los grados por segundo que registra
+    
+    # Calculamos el progreso en segundos para mostrarlo en consola
+    segundos_estables = (contador_estabilidad * INTERVALO_MS) / 1000.0
+    
+    print("Ángulo:", angulo_actual, "° | Velocidad:", velocidad_actual, "°/s | Tiempo Estable:", segundos_estables, "s")
+    
+    # CONDICIÓN DE REINICIO: Si el ángulo se desvía de 0 o detecta velocidad angular
+    if angulo_actual != 0 or velocidad_actual != 0:
+        print("ALERT: ¡Deriva o movimiento detectado! Reseteando contador...")
+        
+        # Ejecutamos el reset físico del sensor
+        gyro.reset_angle(0)
+        contador_estabilidad = 0
+        
+        # Espera de 200ms para dejar que el hardware del EV3 asiente el nuevo cero
+        wait(200) 
+    else:
+        # Si se mantuvo perfectamente inmóvil en este ciclo, sumamos progreso
+        contador_estabilidad += 1
+        
+    wait(INTERVALO_MS)
+
+# =============================================================================
+# CALIBRACIÓN COMPLETADA CON ÉXITO
+# =============================================================================
+print("\n=============================================")
+print("¡CALIBRACIÓN EXITOSA! Giroscopio listo.")
+print("Se mantuvo perfectamente inmóvil por 5 segundos.")
+print("=============================================")
+
+# Pitido largo de éxito
+ev3.speaker.beep(frequency=880, duration=600)
+
+ 
 
 
