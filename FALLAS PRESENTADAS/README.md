@@ -4,7 +4,7 @@ Durante el desarrollo del robot, identificamos diversos desafíos mecánicos y d
 
 ---
 
-### 🟢 Prototipo Inicial (Modelo 1) — Problemas Identificados
+### Prototipo Inicial (Modelo 1) — Problemas Identificados
 
 * **Ubicación de Sensores Ultrasónicos:** Situados en el centro del robot, lo que dificultaba la navegación en giros cerrados y abiertos.
 * **Ajuste de la Pixy Cam:** Montada a una altura excesiva y con una inclinación inadecuada para la detección.
@@ -12,7 +12,7 @@ Durante el desarrollo del robot, identificamos diversos desafíos mecánicos y d
 
 ---
 
-### 🟡 Prototipo Intermedio (Modelo 2) — Primeras Mejoras
+### Prototipo Intermedio (Modelo 2) — Primeras Mejoras
 
 * **Relación de Transmisión:** Se cambió la relación de engranajes para favorecer la velocidad sobre la fuerza.
 * **Ubicación de Ultrasónicos:** Se desplazaron hacia la parte frontal del chasis para mejorar el tiempo de respuesta en esquinas.
@@ -20,7 +20,7 @@ Durante el desarrollo del robot, identificamos diversos desafíos mecánicos y d
 
 ---
 
-### 🔴 Rediseño del Sistema de Dirección y Tracción (Modelo Final)
+### Rediseño del Sistema de Dirección y Tracción (Modelo Final)
 
 A pesar de las mejoras del Modelo 2, el mecanismo de dirección presentaba un amplio juego (punto muerto) debido al deslizamiento en el sistema de corredera, lo que impedía alinear las ruedas de forma precisa.
 
