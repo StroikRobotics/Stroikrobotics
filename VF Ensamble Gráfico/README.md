@@ -47,6 +47,18 @@ A continuación se detalla el paso a paso para la construcción del robot. Sigue
 [![1-22.jpg](https://i.postimg.cc/tJfLgKt4/1-22.jpg)](https://postimg.cc/64rHj1mk)
 [![1-23.jpg](https://i.postimg.cc/wTCCYdB8/1-23.jpg)](https://postimg.cc/gnKS3QRN)
 
+### 🧩 Diagrama de Fases de Construcción
+
+```mermaid
+graph TD
+    A[Pasos 1-7: Chasis Base y Diferencial] --> B[Pasos 8-12: Acople del Motor]
+    B --> C[Pasos 13-23: Mecanismo de Dirección]
+    C --> D[Pasos 24-33: Refuerzo Estructural Inferior]
+    D --> E[Pasos 34-39: Montaje del Tren de Rodaje / Ruedas]
+    E --> F[Pasos 40-49: Soportes de Sensores y Chasis Superior]
+    F --> G[Pasos 50-58: Montaje del Bloque EV3 y Cableado]
+    G --> H[Pasos 59-85: Mecanismos Activos de Manipulación y Finalización]
+
 
 
 
